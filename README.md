@@ -4,7 +4,7 @@ Welcome to my Chinese Chess (Xiangqi) project! This is a practice project I crea
 
 ## About Me
 
-Hello! I'm [Your Name], a passionate developer who loves creating interactive and engaging web applications. This project is part of my journey to master web development. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/) or follow me on [GitHub](https://github.com/yourusername).
+Hello! I'm Jimmy Shum, a passionate developer who loves creating interactive and engaging web applications. This project is part of my journey to master web development.
 
 ## About the Project
 
